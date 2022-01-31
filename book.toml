@@ -1,0 +1,6 @@
+[book]
+authors = ["CaesarXInsanium"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Notes on Interactive Computer Graphics with WebGL"
